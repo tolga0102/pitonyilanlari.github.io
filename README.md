@@ -1,2 +1,2 @@
 # Piton Yılanları
-Merhaba!
+Merhaba! Bu sitede Piton Yılanları takımının üyelerini tanıyacağız.
